@@ -11,6 +11,3 @@ Python 零基础的初学者、Web 开发程序员、运维人员、有志于从
 ## 学习前提
 
 动手实践是学习编程的最有效的捷径，所以学习本教程前，赶快准备基本的编译环境吧！
-
-官方英文原版：
-[https://docs.python.org/3/tutorial/index.html](https://docs.python.org/3/tutorial/index.html)
