@@ -1,4 +1,4 @@
-- [作者简介](Author.md)
+- [作者简介](author.md)
 - Python 入门指南
  - [激起你的兴趣](appetite.md)
  - [使用 Python 解释器](interpreter.md)
